@@ -1,6 +1,6 @@
 # Chatbot Applications
 
-This project is a restaurant chatbot distributed across several microservices. The chatbot can answer general questions about the restaurant, such as operating hours, menu options, and health protocols.
+This project is a chatbot distributed across several microservices. The chatbot can answer general questions about local dataset that we fine fune
 
 ## Services Overview
 
